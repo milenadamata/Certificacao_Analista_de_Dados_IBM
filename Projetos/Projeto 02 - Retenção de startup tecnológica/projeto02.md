@@ -33,8 +33,5 @@ Provavelmente o mais importante nesse momento deveria ser adequar o produto atua
 
 # Análise desenvolvida e breve apresentação 
 
-Aqui você poderá visualizar um breve vídeo explicativo sobre o trabalho desenvolvido: [Vídeo]()
 
-
-
-Aqui você poderá acessar a [análise desenvolvida no Google Sheets]()
+Aqui você poderá acessar a [análise desenvolvida no Google Sheets](https://docs.google.com/spreadsheets/d/1vmtyuc-VTfonMbUlO9topRORKE87TuFBEX7l2O3-53Q/edit?usp=sharing)
