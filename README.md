@@ -15,3 +15,17 @@ O modelo de aprendizagem é inspirado em três princípios:
 * Aprender fazendo
 
 # Projetos Desenvolvidos
+
+## 1. [Excesso de mortes por COVID-19](https://github.com/milenadamata/Certificacao_Analista_de_Dados_IBM/tree/main/Projetos/Projeto%2001%20-%20Excesso%20de%20mortes%20por%20COVID)
+
+Realizar uma estimativa de mortes por COVID-19 na América Latina.
+
+## 2. [Retenção de clientes de Startup](https://github.com/milenadamata/Certificacao_Analista_de_Dados_IBM/tree/main/Projetos/Projeto%2002%20-%20Reten%C3%A7%C3%A3o%20de%20startup%20tecnol%C3%B3gica)
+
+Realizar uma análise por corte para medir a retenção de um SaaS Tecnológico.
+
+## 3. [Segmentação de clientes de um e-commerce](https://github.com/milenadamata/Certificacao_Analista_de_Dados_IBM/tree/main/Projetos/Projeto%2003%20-%20Segmenta%C3%A7%C3%A3o%20de%20clientes%20no%20ecommerce)
+
+
+Realizar uma segmentação de clientes aplicando a metodologia RFM para um comércio eletrônico.
+
